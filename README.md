@@ -1,0 +1,2 @@
+# LaravelCrud
+Laravel CRUD Library
